@@ -83,6 +83,6 @@ Answer the questions below directly in this `README.md` file of your fork:
 
 1. Selected repository: [Prettier](https://github.com/prettier/prettier)
 2. Selected chart: ![](graph.png)
-3. Explanation: In the selected graph, it's clear that, from a certain point, almost all the new variable declarations were made using "const", instead of "var" or "let". Compared to its counterparts, "const" is usually considered the best option, given that it makes it reassignment to the declared variable, which tends to make the intentions of the developer clearer and incentivizes them to constantly give a fitting name to the variable, since it will be used in a more restricted context. Not only that, in contrast to "var", the scope of the variable is restricted, which makes it far easier to keep track of the variable's effects and responsibilities.
+3. Explanation: In the selected graph, it's clear that, from a certain point, almost all the new variable declarations were made using "const", instead of "var" or "let". Compared to its counterparts, "const" is usually considered the best option, given that it makes it impossible to reassign to the declared variable, which tends to make the intentions of the developer clearer and incentivizes them to constantly give a fitting name to the variable, since it will be used in a more restricted context. Not only that, in contrast to "var", the scope of the variable is restricted, which makes it far easier to keep track of the variable's effects and responsibilities.
 
 
