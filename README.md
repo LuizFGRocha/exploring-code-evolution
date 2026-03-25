@@ -81,9 +81,9 @@ Seja criativo!
 
 Responda às questões abaixo diretamente neste arquivo `README.md` do seu fork:
 
-1. Repositório selecionado: <URL_DO_REPOSITORIO_SELECIONADO_AQUI>
-2. Gráfico selecionado: <IMAGEM_DO_GRAFICO_SELECIONADO_AQUI>
-3. Explicação: <EXPLICACAO_AQUI>
+1. Repositório selecionado: [Prettier](https://github.com/prettier/prettier)
+2. Gráfico selecionado: ![](graph.png)
+3. Explicação: "No gráfico selecionado, fica claro que, a partir de determinado ponto, quase todas as novas declarações de variáveis foram feitas usando "const", em vez de "var" ou "let". Em comparação com as outras formas, "const" geralmente é considerada a melhor opção, dado que impede a reatribuição à variável declarada, o que tende a tornar as intenções do desenvolvedor mais claras e o incentiva a dar constantemente um nome adequado à variável, uma vez que ela será usada em um contexto mais restrito. Além disso, em contraste com "var", o escopo da variável é restrito, o que torna muito mais fácil acompanhar os efeitos e responsabilidades da variável.
 
 
 
